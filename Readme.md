@@ -1,10 +1,10 @@
 <!--
  * @Author: zqc
  * @Date: 2022-06-02 09:43:51
- * @LastEditTime: 2022-06-02 11:49:25
+ * @LastEditTime: 2022-06-03 09:09:46
  * @LastEditors: zqc
  * @Description: zqc's file configuration
- * @FilePath: \vscpp\HeiMa\src\readme.md
+ * @FilePath: \undefinede:\vscpp\HeiMa\README.md
  * @version: 1.0
 -->
 # 校园机房预约系统
@@ -56,3 +56,5 @@
 ******
 ## 8. computer.h
 > ### 维护机房信息类
+
+## 9 感谢观看
