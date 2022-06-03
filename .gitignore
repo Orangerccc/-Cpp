@@ -1,0 +1,9 @@
+bin/
+/include/myarray.hpp
+/include/person.h
+/lib/person.cpp
+/src/bin/
+/src/Myarraytest.cpp
+/src/persontest.cpp
+/class-template.cpp
+/template.cpp
